@@ -1,8 +1,8 @@
 # StyleGAN-Batik
 
 ## Batik Dataset
-batik_tf_records            -> https://drive.google.com/open?id=1kqm_uqoLhVUh2uNXaL_As_b0sDQfd4mi &nbsp;
-batik_preprocessed_images   -> https://drive.google.com/open?id=1-5l_1Hra2MY29h0k2i9vLEbAo9OtE6Cu &nbsp;
+batik_tf_records            -> https://drive.google.com/open?id=1kqm_uqoLhVUh2uNXaL_As_b0sDQfd4mi \
+batik_preprocessed_images   -> https://drive.google.com/open?id=1-5l_1Hra2MY29h0k2i9vLEbAo9OtE6Cu \
 batik_raw_images            -> https://drive.google.com/open?id=1eGSTJW34E7Zj7CA_BHJV9n7-tnlf-Ovk
 
 
